@@ -70,6 +70,11 @@ El sistema presenta las siguientes características
 
 -- Se recomienda ver el video adjunto al correo el cual se responde a la prueba técnica el cuál es jorge.martinez@tipti.market
 
+
+    Se subió el proyecto al siguiente repositorio 
+    https://github.com/kevleo815/tipti
+   
+
     Url del video de explicación de la funcionalidad del sistema ver hatas el minuto 7
     https://drive.google.com/file/d/1mGyzIKQBUVpE0PXBSb_TQHKJ8nVWfSU2/view?usp=sharing
 
