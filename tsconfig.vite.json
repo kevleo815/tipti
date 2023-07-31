@@ -1,0 +1,11 @@
+{
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.d.ts",
+      "src/**/*.tsx",
+      "src/**/*.vue"  // Agrega esta línea para incluir los archivos .vue en la carpeta components
+    ],
+    "compilerOptions": {
+      // Otras opciones del compilador TypeScript
+    }
+  }
