@@ -70,7 +70,11 @@ El sistema presenta las siguientes características
 
 -- Se recomienda ver el video adjunto al correo el cual se responde a la prueba técnica el cuál es jorge.martinez@tipti.market
 
-    El video tiene una demostración de como funciona el sistema, ya que considero que una imagen dice más que mil palabras 
+    Url del video de explicación de la funcionalidad del sistema ver hatas el minuto 7
+    https://drive.google.com/file/d/1mGyzIKQBUVpE0PXBSb_TQHKJ8nVWfSU2/view?usp=sharing
+
+    Url del video de explicación del código fuente
+    https://drive.google.com/file/d/168DPfpTraT0HHDP-9_8nAelFtGDu_4jB/view?usp=sharing
     
 
 
